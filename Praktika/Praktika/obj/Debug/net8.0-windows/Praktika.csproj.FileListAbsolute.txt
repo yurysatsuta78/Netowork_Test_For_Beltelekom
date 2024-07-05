@@ -1,0 +1,16 @@
+D:\visu\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.exe
+D:\visu\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.deps.json
+D:\visu\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.runtimeconfig.json
+D:\visu\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.dll
+D:\visu\Praktika\Praktika\bin\Debug\net8.0-windows\Praktika.pdb
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.MainForm.resources
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.GenerateResource.cache
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.AssemblyInfoInputs.cache
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.AssemblyInfo.cs
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.csproj.CoreCompileInputs.cache
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.dll
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\refint\Praktika.dll
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.pdb
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\Praktika.genruntimeconfig.cache
+D:\visu\Praktika\Praktika\obj\Debug\net8.0-windows\ref\Praktika.dll
